@@ -1,5 +1,5 @@
-### Hi, I am G.S.S.N. Himabindu 👋
-
+### Hi, I am G.S.S.N.Himabindu 👋
+<img src="/about-image.png" position="center">
 <p align="center">
 <!--  <a href="https://github.com/himabindugssn/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines="></a> -->
 </p>
