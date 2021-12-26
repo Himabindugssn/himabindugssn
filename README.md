@@ -107,6 +107,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 <a href="https://www.linkedin.com/in/gssnhimabindu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:gssnhimabindu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://github.com/Himabindugssn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://medium.com/@gssnhimabindu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <!--   https://github.com/alexandresanlim/Badges4-README.md-Profile#-social- -->
 </p>
 
